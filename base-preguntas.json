@@ -1,0 +1,111 @@
+[
+    {
+        "categoria": "Novato",
+        "pregunta": "¿Quién mató al Sr. Burns?",
+        "respuesta": "Maggie",
+        "incorrecta1": "Smithers",
+        "incorrecta2": "Marge",
+        "incorrecta3": "Abuelo Simpson",
+        "imagen": "img/burns1.jpg",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "¿Bajo qué escondió 'El Gato de Sprinfield su gran tesoro?",
+        "respuesta": "Una gran 'T'",
+        "incorrecta1": "Una Palmera",
+        "incorrecta2": "El centro comercial",
+        "incorrecta3": "La jefatura de policía",
+        "imagen": "img/elgato1.jpg",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "¿A quién pertenece el alma de Homero?",
+        "respuesta": "Marge",
+        "incorrecta1": "Flanders",
+        "incorrecta2": "Milhouse",
+        "incorrecta3": "El hombre Duff",
+        "imagen": "img/flanders.jpg",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Novato",
+        "pregunta": "Con 20 dólares se puede comprar mucha/o...",
+        "respuesta": "Maní",
+        "incorrecta1": "Cerveza",
+        "incorrecta2": "Nachos",
+        "incorrecta3": "Papas",
+        "imagen": "img/mani.png",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "¿Cómo se llamaba el oso del Sr. Burns?",
+        "respuesta": "Bobo",
+        "incorrecta1": "Toto",
+        "incorrecta2": "Momo",
+        "incorrecta3": "Oso",
+        "imagen": "img/bobo.jpg",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "Un submarino nuclear, se dice...",
+        "respuesta": "A-TÓ-MI-CO",
+        "incorrecta1": "Nuclear",
+        "incorrecta2": "Atómico",
+        "incorrecta3": "Radiactivo",
+        "imagen": "img/atomico.jpg",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Novato",
+        "pregunta": "¿Qué traía el 'extraterrestre' que se presentaba todos los viernes en el bosque?",
+        "respuesta": "Paz y amor",
+        "incorrecta1": "Guerra y destrución",
+        "incorrecta2": "Tecnología",
+        "incorrecta3": "Conocimiento",
+        "imagen": "img/paz.jpg",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Novato",
+        "pregunta": "Si sacan menos de 9, sea quien sea...",
+        "respuesta": "Hay tabla!",
+        "incorrecta1": "Hay castigo",
+        "incorrecta2": "Fuera de la clase",
+        "incorrecta3": "Reprueba",
+        "imagen": "img/tabla.png",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "El parque de diversiones del futuro (Tomy y Daly), dónde nada puede...",
+        "respuesta": "Malir Sal",
+        "incorrecta1": "Salir Mal",
+        "incorrecta2": "Decepcionarte",
+        "incorrecta3": "Ponerte triste",
+        "imagen": "img/malirsal.jpg",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "Cuando Bart jugaba al Hockey, Homero le dice 'y si por azar pierdes...'",
+        "respuesta": "Te mato!",
+        "incorrecta1": "No te preocupes, hijo",
+        "incorrecta2": "Perdedor!",
+        "incorrecta3": "Ganarás en otra ocasión",
+        "imagen": "img/hockey.jpg",
+        "object_fit": "cover" 
+    }
+]

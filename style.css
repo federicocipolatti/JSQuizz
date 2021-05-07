@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Simpsons';
+    src: url("font/Simpsonfont.ttf");
+}
+
+*{
+    transition: all 0.3s;
+}
+
+body{
+    background-image: url("img/fondo2.jpg");
+    background-position-x: center;
+    background-position-y: -200px;
+    font-family: 'Simpsons';
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 120%;
+}   
+
+  .contenedor {
+    width: 98vw;
+    height: 97vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .encabezado {
+    position: relative;
+    background: gold;
+    min-width: 300px;
+    width: 70%;
+    max-width: 600px;
+    padding: 10px;
+  }
+
+  .categoria {
+    opacity: 0.5;
+    text-align: left;
+  }
+
+  .pregunta {
+    padding: 10px;
+  }
+
+  .imagen {
+    object-fit: cover;
+    height: 0px;
+    width: 0px;
+  }
+
+  .btn {
+    background: gold;
+    width: 60%;
+    max-width: 550px;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+  }
+
+  .btn:hover {
+    transform: scale(1.05);
+  }
+  
+  .numero{
+    position: absolute;
+    opacity:0.3;
+    top: 10px;
+    right: 10px;
+  }
+  
+  .puntaje{
+    padding:10px;
+    color:white;
+  }
