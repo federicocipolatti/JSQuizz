@@ -2,46 +2,46 @@ window.onload = function() {
     base_preguntas = readText("base-preguntas.json")
     interprete_bp = JSON.parse(base_preguntas)
     escogerPreguntaAleatoria()
-  }
+}
   
-  let pregunta
-  let posibles_respuestas
-  let btn_correspondiente = [
-    select_id("btn1"), 
-    select_id("btn2"),
-    select_id("btn3"), 
-    select_id("btn4")
-  ]
-  npreguntas = []
+let pregunta
+let posibles_respuestas
+let btn_correspondiente = [
+  select_id("btn1"), 
+  select_id("btn2"),
+  select_id("btn3"), 
+  select_id("btn4")
+]
+
+npreguntas = []
   
-  let preguntas_hechas = 0
-  let preguntas_correctas = 0
+let preguntas_hechas = 0
+let preguntas_correctas = 0
   
-  function escogerPreguntaAleatoria() {
-    let n = Math.floor(Math.random() * interprete_bp.length)
-    // n = 0
+function escogerPreguntaAleatoria() {
+let n = Math.floor(Math.random() * interprete_bp.length)
   
-    while (npreguntas.includes(n)) {
-      n++
-      if (n >= interprete_bp.length) {
-        n = 0
-      }
-      if (npreguntas.length == interprete_bp.length) {
-        npreguntas = []
-      }
+  while (npreguntas.includes(n)) {
+    n++
+    if (n >= interprete_bp.length) {
+      n = 0
     }
-    npreguntas.push(n)
-    preguntas_hechas++
-    
-    escogerPregunta(n)
+    if (npreguntas.length == interprete_bp.length) {
+      npreguntas = []
+    }
   }
+  npreguntas.push(n)
+  preguntas_hechas++
+    
+  escogerPregunta(n)
+}
   
-  function escogerPregunta(n) {
-    pregunta = interprete_bp[n]
-    select_id("categoria").innerHTML = pregunta.categoria
-    select_id("pregunta").innerHTML = pregunta.pregunta
-    //select_id("numero").innerHTML = n
-    let pc = preguntas_correctas
+function escogerPregunta(n) {
+  pregunta = interprete_bp[n]
+  select_id("categoria").innerHTML = pregunta.categoria
+  select_id("pregunta").innerHTML = pregunta.pregunta
+
+  let pc = preguntas_correctas
     if(preguntas_hechas>1){
       select_id("puntaje").innerHTML = pc + "/" + (preguntas_hechas-1)
     }else{
@@ -52,8 +52,8 @@ window.onload = function() {
     desordenarRespuestas(pregunta)
     if (pregunta.imagen) {
       select_id("imagen").setAttribute("src", pregunta.imagen)
-      style("imagen").height = "200px"
-      style("imagen").width = "100%"
+      style("imagen").height = "250px"
+      style("imagen").width = "80%"
     } else {
       style("imagen").height = "0px"
       style("imagen").width = "0px"
@@ -61,7 +61,7 @@ window.onload = function() {
               select_id("imagen").setAttribute("src", "")
       }, 500);
     }
-  }
+}
   
   function desordenarRespuestas(pregunta) {
     posibles_respuestas = [

@@ -10,7 +10,7 @@
 body{
     background-image: url("img/fondo2.jpg");
     background-position-x: center;
-    background-position-y: -200px;
+    background-position-y: center;
     font-family: 'Simpsons';
     padding: 0;
     margin: 0;
@@ -20,7 +20,7 @@ body{
 
   .contenedor {
     width: 98vw;
-    height: 97vh;
+    height: 110vh;
     display: inline-flex;
     flex-direction: column;
     justify-content: center;
@@ -72,6 +72,7 @@ body{
   }
   
   .puntaje{
-    padding:10px;
-    color:white;
+    padding:5px;
+    color:black;
+    font-size: medium;
   }

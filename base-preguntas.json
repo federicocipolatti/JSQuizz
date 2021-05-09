@@ -107,5 +107,181 @@
         "incorrecta3": "Ganarás en otra ocasión",
         "imagen": "img/hockey.jpg",
         "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Avanzado",
+        "pregunta": "¿Cuál era el slogan de Jimbo cuando se presentó a las elecciones para alcalde de Sprinfield?",
+        "respuesta": "Duro con los ñoños",
+        "incorrecta1": "Duro con los bobos",
+        "incorrecta2": "Duro con los patéticos",
+        "incorrecta3": "Duro con los sonsos",
+        "imagen": "img/jimbo.jpg",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Avanzado",
+        "pregunta": "¿Dónde debía decir Bart que estaba si alguien le preguntaba, cuando Bob Patiño lo hipnotizó?",
+        "respuesta": "En la florería",
+        "incorrecta1": "En la casa de Milhouse",
+        "incorrecta2": "En el centro comercial",
+        "incorrecta3": "En la tienda de historietas",
+        "imagen": "img/floreria.jfif",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Avanzado",
+        "pregunta": "¿Qué le dice Homero a Marge antes de que se sienten a ver el video de Brad Goodman?",
+        "respuesta": "Que paseo salvaje Marge!",
+        "incorrecta1": "Que onda Marge!",
+        "incorrecta2": "Marge, quier un emparedado",
+        "incorrecta3": "Tenemos cerveza?",
+        "imagen": "img/paseo.jfif",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "¿Yo reprobar Español?",
+        "respuesta": "Ser Imposible!",
+        "incorrecta1": "Ser Posible!",
+        "incorrecta2": "No lo creo",
+        "incorrecta3": "Hola Profesor Skinner",
+        "imagen": "img/español.jfif",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "¿Como lo llama Rafa al Superintendente Charmers en el laboratorio de Informática?",
+        "respuesta": "Super Nintendo Charmers",
+        "incorrecta1": "Super Intendente Chormin",
+        "incorrecta2": "Super Nintendo Chorming",
+        "incorrecta3": "Super Intendente Charmers",
+        "imagen": "img/charmers.jfif",
+        "o,bject_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "Sin oir, ¿entendido?",
+        "respuesta": "Usted no aprende, ¿verdad?",
+        "incorrecta1": "No",
+        "incorrecta2": "Esta bien",
+        "incorrecta3": "Usted si aprende ¿verdad?",
+        "imagen": "img/verdad.jfif",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "¿Qué les dice Homero a Bart y Milhouse cuando se golpean con el fondo del mar en la playa?",
+        "respuesta": "Es marea baja, babosos!",
+        "incorrecta1": "Cuidado con la marea baja",
+        "incorrecta2": "Es marea baja, tontos!",
+        "incorrecta3": "Es marea alta, babosos!",
+        "imagen": "img/mareabaja.jfif",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "¿Qué tecla estaba buscando Homero cuando quería iniciar la computadora?",
+        "respuesta": "Cualquiera",
+        "incorrecta1": "CTRL",
+        "incorrecta2": "ESC",
+        "incorrecta3": "PG UP",
+        "imagen": "img/tecla.jfif",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Avanzado",
+        "pregunta": "¿Cómo se llamaba el equivalente Soviético de Tomi y Daly?",
+        "respuesta": "Obrero y Parásito",
+        "incorrecta1": "Tomi y Dalo",
+        "incorrecta2": "Obrero y Obrera",
+        "incorrecta3": "Daly y el gato",
+        "imagen": "img/oyp.jfif",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "Según el Abuelo, ¿Qué nunca podía ser Homero?",
+        "respuesta": "Una estrella Porno",
+        "incorrecta1": "Comunista",
+        "incorrecta2": "Puerco",
+        "incorrecta3": "Mentiroso",
+        "imagen": "img/comunista.jfif",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "'Sé que oyes mis pensamientos, muchacho'",
+        "respuesta": "ÑAM ÑAM ÑAM ÑAM",
+        "incorrecta1": "Tarara tarara tarara",
+        "incorrecta2": "PAM PAM PAM PAM",
+        "incorrecta3": "Te vas al demonio",
+        "imagen": "img/pensamientos.jfif",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "'Sé que oyes mis pensamientos Bart, si descubro que te escapste...'",
+        "respuesta": "Te vas al demonio!",
+        "incorrecta1": "Te castigo!",
+        "incorrecta2": "Te suspendo!",
+        "incorrecta3": "Te Expuso!",
+        "imagen": "img/skinner.jfif",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "Según Homero, ¿Cómo le dice a Bart que fue un accidente y que no lo quiso?",
+        "respuesta": "Con gracia",
+        "incorrecta1": "Con elegancia",
+        "incorrecta2": "Con Enojo",
+        "incorrecta3": "Con Risa",
+        "imagen": "img/gracia.jfif",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "Comer una naranja es como...",
+        "respuesta": "Llevar un buen matrimonio",
+        "incorrecta1": "Comer un melon",
+        "incorrecta2": "Llevar un buen empleo",
+        "incorrecta3": "Comer un limon",
+        "imagen": "img/naranja.jfif",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Avanzado",
+        "pregunta": "¿Cómo se llamaba el niñoq ue recorrió el país fundando periódicos?",
+        "respuesta": "Johny Noticioso",
+        "incorrecta1": "Jhony Noticias",
+        "incorrecta2": "Jhony Noticiero",
+        "incorrecta3": "¿Si era tan listo por qué se murio?",
+        "imagen": "img/johny.jfif",
+        "object_fit": "cover" 
+    },
+
+    {
+        "categoria": "Medio",
+        "pregunta": "¿Qué dijo George Harrison sobre Homero, cuando se conocieron en los Grammy?",
+        "respuesta": "Que agradable sujeto",
+        "incorrecta1": "Que desagradable sujeto",
+        "incorrecta2": "Que gordo sujeto",
+        "incorrecta3": "Que tonto sujeto",
+        "imagen": "img/agradable.jfif",
+        "object_fit": "cover" 
     }
 ]
